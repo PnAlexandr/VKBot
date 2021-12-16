@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NewBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewBot_jar</output-path>
+    <root id="archive" name="NewBot.jar">
+      <element id="module-output" name="NewBot" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/yvasyliev/java-vk-bots-longpoll-api/3.0.1/java-vk-bots-longpoll-api-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.12.4/jackson-core-2.12.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.14.3/jsoup-1.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
